@@ -1,6 +1,7 @@
 # simple-rscript
 
-This is my second change.
+[This is my second change.]
+I should delete the note above...
 
 This is a demo R script.
 
