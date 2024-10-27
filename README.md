@@ -1,8 +1,5 @@
 # simple-rscript
 
-[This is my second change.]
-I should delete the note above...
-
 This is a demo R script.
 
 * `sample-script.R` contains the R code
